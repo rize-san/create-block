@@ -4,4 +4,3 @@ let newBlock = document.createElement('div')
 newBlock.classList = ('mini')
 box.append(newBlock)                                 
 }
-creatBlock()
